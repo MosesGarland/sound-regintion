@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+    font-family: 'League Gothic', sans-serif;;
+}
+.header_div{
+    background: greenyellow;
+    color: black;
+    letter-spacing: 2px;
+    font-size: x-large;
+    font-weight: bold;
+}
+.main_div button{
+font-family:  'BhuTuka Expanded One', cursive;
+margin-top: 35px;
+width: 600px;
+font-weight: bolder;
+}
+.copy_right_footer{
+    position: fixed;
+    color:red;
+    bottom: 0;
+    width: 100%;
+    font-size: 50px;
+    background-color: cornflowerblue;
+    line-height: 6;
+    text-align: center;
+}
